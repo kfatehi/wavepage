@@ -1,0 +1,22 @@
+body {
+    background-color: ivory;
+}
+
+#sandbox {
+  position:relative;
+  height:200px;
+}
+
+canvas {
+  position:absolute;
+  top:0;
+  left:0;
+  border: 1px solid black;
+}
+
+.antenna {
+  position:absolute;
+  height: 100%;
+  width: 5px;
+  background-color:black;
+}
